@@ -1,5 +1,8 @@
 /*
-  Task: 
+  Task:
+    Create React component Header.jsx and HouseLis.jsx
+
+  Setup: 
     npm install bootstrap
     Once the installation is complete, we can include it in our app’s 
     entry file in main.jsx :
